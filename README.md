@@ -7,7 +7,7 @@ la location est confirmée par un email envoyé au client.
 
 Ce projet implémente un système simple de location de livres avec un cas d'usage principal :
 
-### 📚 "Louer un livre"
+### 📚 "Louer un livre" doit etre realise en full clean architecture et TDD
 
 **Acteur** : Un locataire (Renter)  
 **Objectif** : Louer un livre disponible
